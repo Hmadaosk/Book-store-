@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>online book store</title>
+      <link rel="stylesheet" href="online book.css"
+    </head>
+   >
+    <body></body>
+    
+<h1>  Agatha Christie Top Books </h1>
+<div class="box">
+  <h2>Section :Novels And Literary Stories</h2>
+  <img src="and then there wherennone.jpg " height="250px"
+  width="300px">
+  <p>Author :Agatha Christie </p>
+  <p>STORY RATING :excitement & horror</p>
+  <p>page :158 </p>
+  <p>Creation Date :22 se 2006</p>
+  <a href="and then there wherennone.html">and then there wherennon</a>
+  
+</div> 
+
+<div class="box">
+  <h2>Detils of the book</h2>
+  <img src="The Big Four.jpg" height="280px"
+  width="300px">
+  <p>Author :Agatha Christie</p>
+  <p>STORY RATING :imagination </p>
+  <p>page : 282 </p>
+  <p>Creation Date :27 jan 1927</p>
+  <a href="The Big Four.html">The Big Four</a>
+</div>
+
+
+<div class="box">
+  <h2>Detils of the book</h2>
+  <img src="endless nigth.jpg"  height="280px"  width="300px" >
+  <p>Author :Agatha Christie</p>
+  <p>STORY RATING :Crime Novel</p>
+  <p>page :224 </p>
+  <p>Creation Date 30 oct 1967:</p>
+  <a href="endless nigth.html">Never ending night</a>
+</div>
+
+
+<div class="box">
+  <h2>Detils of the book</h2>
+  <img src="lord edgware dies.jpg" height="280px"  width="300px">
+  <p>Author :Agatha Christie</p>
+  <p>STORY RATING : bolese</p>
+  <p>page : 156</p>
+  <p>Creation Date :19Feb 2007</p>
+  <a href="lord edgware dies.html">lord edgware dies</a>
+</div>
+
+</div><div class="box">
+  <h2>Detils of the book</h2>
+  <img src="postern of  fate.jpg" height="280px"  width="300px">
+  <p>Author :Agatha Christie</p>
+  <p>STORY RATING : crime novel</p>
+  <p>page : 256</p>
+  <p>Creation Date :oct 1973</p>
+  <a href="postern of fate.html">postern of fate</a>
+</div>
+
+</div><div class="box">
+  <h2>Detils of the book</h2>
+  <img src="the pale horse.jpg" height="280px"  width="300px">
+  <p>Author :Agatha Christie</p>
+  <p>STORY RATING : crime novel</p>
+  <p>page : 256</p>
+  <p>Creation Date :oct 1973</p>
+  <a href="the pale horse.html">the pale horse</a>
+</div>
+</html>
